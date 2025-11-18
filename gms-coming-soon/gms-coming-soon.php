@@ -262,11 +262,6 @@ class GMS_Coming_Soon {
             <button type="button" class="button" id="gms_cs_background_image_button">
                 <?php echo esc_html( $strings['field_background_button'] ); ?>
             </button>
-            <?php if ( ! empty( $image ) ) : ?>
-                <div style="margin-top: 10px;">
-                    <img src="<?php echo $image; ?>" alt="" style="max-width: 100%; height: auto;" />
-                </div>
-            <?php endif; ?>
         </div>
         <?php
     }
