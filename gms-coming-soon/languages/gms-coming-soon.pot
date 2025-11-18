@@ -1,9 +1,0 @@
-msgid ""
-msgstr ""
-"Project-Id-Version: GMS Coming Soon 2.0.3\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: \n"
-
-#: gms-coming-soon.php
-msgid "Coming Soon"
-msgstr ""
